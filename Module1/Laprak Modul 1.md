@@ -257,7 +257,7 @@ int main() {
 }
 ```
 #### Output:
-![Screenshot Output Unguided 1](Output-Unguided-1_Jordan.png)
+![alt text](Fadhelimg_111-1.png)
 Kode di atas digunakan untuk memilih sebuah opsi diantara opsi pertambahan (+), pengurangan(-), perkalian (*), pembagian (/), dan pemangkatan (^). Kode di atas juga memiliki library cmath untuk mempermudah logika coding pemangkatan. Kode di atas juga memiliki 5 fungsi dan 1 prosedur, di mana 5 fungsi ini menampung logika pertambahan hingga pemangkatan dan 1 prosedur menampung tampilan awal menu kalkulator Jordan. Program ini juga dilengkapi dengan perulangan do while jadi user dapat mengulangi program itu selama user tidak menginput angka 0.
 
 Kesimpulan Tipe Data Primitif:<br/>
