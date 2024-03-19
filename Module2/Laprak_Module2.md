@@ -336,7 +336,7 @@ int main() {
 ```
 
 # Output
-![alt text](<Screenshot 2024-03-19 221159.png>)
+![alt text](<Screenshot 2024-03-19 221159.png>)</br>
 Kegunaan program tersebut adalah untuk memasukkan sejumlah data, kemudian menghitung dan menampilkan nilai maksimum, nilai minimum, dan rata-rata dari data-data tersebut. Program tersebut bertujuan untuk menghitung dan menampilkan nilai maksimum, nilai minimum, dan nilai rata-rata dari sejumlah data yang dimasukkan.
 
 # Kesimpulan 
