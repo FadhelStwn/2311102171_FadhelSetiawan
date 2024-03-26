@@ -3,7 +3,7 @@
 
 # A.Dasar Teori 
 
-1) Single Linked List</br>
+1) Single Linked List
 Linked List merupakan suatu bentuk struktur data yang berisi kumpulan data yang disebut sebagai node yang tersusun secara sekuensial, saling sambung menyambung, dinamis, dan terbatas. Setiap elemen dalam linked list dihubungkan ke elemen lain melalui pointer. Masing-masing komponen sering disebut dengan simpul atau node atau verteks. Pointer adalah alamat elemen.
 Setiap simpul pada dasarnya dibagi atas dua bagian pertama disebut bagian isi atau informasi atau data yang berisi nilai yang disimpan oleh simpul. Bagian kedua disebut bagian pointer yang berisi alamat dari node berikutnya atau sebelumnya. Dengan menggunakan struktur seperti ini, linked list dibentuk dengan cara menunjuk pointer next suatu elemen ke elemen yang mengikutinya. Pointer next pada elemen terakhir merupakan NULL, yang menunjukkan akhir dari suatu list. Elemen pada awal suatu list disebut head dan elemen terakhir dari suatu list disebut tail.</br>
 
@@ -997,7 +997,7 @@ Di awal program, kita mendefinisikan sebuah class Node yang merepresentasikan sa
 Dari materi dan tugas diatas, dapat disimpulkan bahwa single linked list dan double linked list kedua jenis linked list ini merupakan struktur data yang kuat dan fleksibel untuk menyimpan dan mengelola data dalam berbagai aplikasi.
 
 # Referensi
-[1] Nick Parlante. (2001, january 25). Stanford CS Education Library. 
+[1] Nick Parlante. (2001, january 25). Stanford CS Education Library.</br>
 [2] Putra, A. k. (2019, April 25). Single linked list.
 
 
