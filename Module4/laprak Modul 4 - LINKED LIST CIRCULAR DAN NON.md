@@ -865,7 +865,7 @@ Single linked list circular adalah struktur data linear yang terdiri dari sejuml
 2) Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)<br>
 ![alt text](<Screenshot 2024-04-03 105855.png>)<br>
 
-3) Lakukan perintah 
+3) Lakukan perintah berkut:<br>
 a. Tambahkan data berikut diantara Farrel dan Denis:<br>
 ![alt text](<Screenshot 2024-04-03 110116.png>)<br>
 b. Hapus data Denis<br>
