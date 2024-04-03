@@ -839,27 +839,27 @@ Single linked list circular adalah struktur data linear yang terdiri dari sejuml
 
 # Tampilkan Oprasi Tambah
 
-<h2>• Tambah Depan</h2> 
+- Tambah Depan
 ![alt text](<Screenshot 2024-04-03 103817.png>)
-<h2>• Tambah Tengah</h2> 
+- Tambah Tengah 
 ![alt text](<Screenshot 2024-04-03 103912.png>)
-<h2>• Tambah Belakang</h2> 
+- Tambah Belakang
 ![alt text](<Screenshot 2024-04-03 104001.png>)
 
 # Tampilakan Oprasi Hapus
 
-<h2>• Hapus Belakang</h2>
+- Hapus Belakang
 ![alt text](<Screenshot 2024-04-03 104001-1.png>)
-<h2>• Hapus Tengah </h2>
+- Hapus Tengah 
 ![alt text](<Screenshot 2024-04-03 104045.png>)
 
 # Tampilkan Oprasi Ubah
 
-<h2>• Ubah Belakang </h2>
+- Ubah Belakang
 ![alt text](<Screenshot 2024-04-03 104329.png>)
-<h2>• Ubah Tengah </h2>
+- Ubah Tengah
 ![alt text](<Screenshot 2024-04-03 104501.png>)
-<h2>Tampilan Operasi Tampil Data</h2>
+- Tampilan Operasi Tampil Data
 ![alt text](<Screenshot 2024-04-03 104552.png>)
 
 2) Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)
