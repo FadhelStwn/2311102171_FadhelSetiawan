@@ -835,35 +835,35 @@ Single linked list circular adalah struktur data linear yang terdiri dari sejuml
 1) Buatlah menu untuk menambahkan, mengubah, menghapus, dan melihat Nama dan NIM mahasiswa
 # Tampilkan Menu
 
-![alt text](<Screenshot 2024-04-03 103622.png>)
+![alt text](<Screenshot 2024-04-03 103622.png>)<br>
 
 # Tampilkan Oprasi Tambah
 
-- Tambah Depan
-![alt text](<Screenshot 2024-04-03 103817.png>)
-- Tambah Tengah 
-![alt text](<Screenshot 2024-04-03 103912.png>)
-- Tambah Belakang
-![alt text](<Screenshot 2024-04-03 104001.png>)
+- Tambah Depan<br>
+![alt text](<Screenshot 2024-04-03 103817.png>)<br>
+- Tambah Tengah <br>
+![alt text](<Screenshot 2024-04-03 103912.png>)<br>
+- Tambah Belakang<br>
+![alt text](<Screenshot 2024-04-03 104001.png>)<br>
 
 # Tampilakan Oprasi Hapus
 
-- Hapus Belakang
-![alt text](<Screenshot 2024-04-03 104001-1.png>)
-- Hapus Tengah 
-![alt text](<Screenshot 2024-04-03 104045.png>)
+- Hapus Belakang<br>
+![alt text](<Screenshot 2024-04-03 104001-1.png>)<br>
+- Hapus Tengah <br>
+![alt text](<Screenshot 2024-04-03 104045.png>)<br>
 
 # Tampilkan Oprasi Ubah
 
-- Ubah Belakang
-![alt text](<Screenshot 2024-04-03 104329.png>)
-- Ubah Tengah
-![alt text](<Screenshot 2024-04-03 104501.png>)
-- Tampilan Operasi Tampil Data
-![alt text](<Screenshot 2024-04-03 104552.png>)
+- Ubah Belakang<br>
+![alt text](<Screenshot 2024-04-03 104329.png>)<br>
+- Ubah Tengah<br>
+![alt text](<Screenshot 2024-04-03 104501.png>)<br>
+- Tampilan Operasi Tampil Data<br>
+![alt text](<Screenshot 2024-04-03 104552.png>)<br>
 
-2) Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)
-![alt text](<Screenshot 2024-04-03 105855.png>)
+2) Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)<br>
+![alt text](<Screenshot 2024-04-03 105855.png>)<br>
 
 3) Lakukan perintah 
 a. Tambahkan data berikut diantara Farrel dan Denis:<br>
@@ -916,8 +916,8 @@ Pemilihan jenis linked list tergantung pada kebutuhan operasi yang akan dilakuka
 - Non-circular linked list: Lebih sederhana dan efisien dalam hal memori.</br>
 
 # Referensi
-[1] Muhammad Nugraha, Dasar Pemrograman Dengan C++, Materi Paling Dasar untuk Menjadi Programmer Berbagai Platform Yogyakarta: Deepublish, 2021.
-[2]Istvan Haller, Asia Slowinska, Herbert Bos Empirical Software Engineering 21, 778-810, 2016
-[3]Wisam Abed Shukur, Ahmed Badrulddin, Mohammed Kamal Nsaif, A proposed encryption technique of different texts using circular link lists, Vol 9, No 2 (2021)
+[1] Muhammad Nugraha, Dasar Pemrograman Dengan C++, Materi Paling Dasar untuk Menjadi Programmer Berbagai Platform Yogyakarta: Deepublish, 2021.<br>
+[2]Istvan Haller, Asia Slowinska, Herbert Bos Empirical Software Engineering 21, 778-810, 2016.<br>
+[3]Wisam Abed Shukur, Ahmed Badrulddin, Mohammed Kamal Nsaif, A proposed encryption technique of different texts using circular link lists, Vol 9, No 2 (2021)<br>
 
 
