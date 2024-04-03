@@ -866,7 +866,7 @@ Single linked list circular adalah struktur data linear yang terdiri dari sejuml
 ![alt text](<Screenshot 2024-04-03 105855.png>)
 
 3) Lakukan perintah 
-<h2>a. Tambahkan data berikut diantara Farrel dan Denis:<br>
+a. Tambahkan data berikut diantara Farrel dan Denis:<br>
 ![alt text](<Screenshot 2024-04-03 110116.png>)
 b. Hapus data Denis<br>
 ![alt text](<Screenshot 2024-04-03 110157.png>)
@@ -886,7 +886,7 @@ i. Hapus data akhir<br>
 ![alt text](<Screenshot 2024-04-03 110814.png>)
 j. Tampilkan seluruh data<br>
 ![alt text](<Screenshot 2024-04-03 110814-1.png>)
-</h2>
+<br>
 Program diatas adalah program sederhana yang memungkinkan pengguna untuk melakukan operasi dasar pada linked list, seperti menambahkan, mengubah, menghapus, dan menampilkan data. Pada program diatas terdapat beberapa komponen utama dalam program yaitu :
 
 1. Struct Node: Digunakan untuk merepresentasikan sebuah node dalam linked list. Setiap node memiliki dua string yang menyimpan informasi nama dan NIM mahasiswa, serta pointer next yang menunjukkan ke node berikutnya dalam linked list.
