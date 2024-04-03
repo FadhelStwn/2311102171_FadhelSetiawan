@@ -2,8 +2,8 @@
 <p align="center">Fadhel Setiawan - 2311102171</p>
 
 # Tujuan Pratikum
-a. Praktikan dapat mengetahui dan memahami linked list circular dan non circular.
-b. Praktikan dapat membuat linked list circular dan non circular.
+a. Praktikan dapat mengetahui dan memahami linked list circular dan non circular.<br>
+b. Praktikan dapat membuat linked list circular dan non circular.<br>
 c. Praktikan dapat mengaplikasikan atau menerapkan linked list circular dan non 
 circular pada program yang dibuat
 
