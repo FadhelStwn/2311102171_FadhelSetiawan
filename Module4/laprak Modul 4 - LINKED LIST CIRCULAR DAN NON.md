@@ -867,25 +867,25 @@ Single linked list circular adalah struktur data linear yang terdiri dari sejuml
 
 3) Lakukan perintah 
 a. Tambahkan data berikut diantara Farrel dan Denis:<br>
-![alt text](<Screenshot 2024-04-03 110116.png>)
+![alt text](<Screenshot 2024-04-03 110116.png>)<br>
 b. Hapus data Denis<br>
-![alt text](<Screenshot 2024-04-03 110157.png>)
+![alt text](<Screenshot 2024-04-03 110157.png>)<br>
 c. Tambahkan data di awal<br>
-![alt text](<Screenshot 2024-04-03 110247.png>)
+![alt text](<Screenshot 2024-04-03 110247.png>)<br>
 d. Tambahkan data akhir<br>
-![alt text](<Screenshot 2024-04-03 110324.png>)
+![alt text](<Screenshot 2024-04-03 110324.png>)<br>
 e. Ubah data Udin<br>
-![alt text](<Screenshot 2024-04-03 110437.png>)
+![alt text](<Screenshot 2024-04-03 110437.png>)<br>
 f. Ubah data terkahir<br> 
-![alt text](<Screenshot 2024-04-03 110524.png>)
+![alt text](<Screenshot 2024-04-03 110524.png>)<br>
 g. Hapus data awal<br>
-![alt text](<Screenshot 2024-04-03 110630.png>)
+![alt text](<Screenshot 2024-04-03 110630.png>)<br>
 h. Ubah data awal <br>
-![alt text](<Screenshot 2024-04-03 110725.png>)
+![alt text](<Screenshot 2024-04-03 110725.png>)<br>
 i. Hapus data akhir<br>
-![alt text](<Screenshot 2024-04-03 110814.png>)
+![alt text](<Screenshot 2024-04-03 110814.png>)<br>
 j. Tampilkan seluruh data<br>
-![alt text](<Screenshot 2024-04-03 110814-1.png>)
+![alt text](<Screenshot 2024-04-03 110814-1.png>)<br>
 <br>
 Program diatas adalah program sederhana yang memungkinkan pengguna untuk melakukan operasi dasar pada linked list, seperti menambahkan, mengubah, menghapus, dan menampilkan data. Pada program diatas terdapat beberapa komponen utama dalam program yaitu :
 
