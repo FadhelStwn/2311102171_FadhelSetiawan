@@ -183,7 +183,7 @@ int main() {
     return 0;
 }
 ```
-![alt text](<Screenshot 2024-04-16 190443.png>)
+![alt text](<Screenshot 2024-04-16 190443.png>)</br>
 Kode di atas digunakan untuk menjalankan hash table sederhana. Pada struct Node terdapat key & value bertipe data integer, Node* next, dan deklarasi Node. Ada juga class HashTable di mana ada private class dan public class. Dalam private class, dideklarasikan Node** table dan di dalam public class dideklarasikan HashTable(), ~HashTable(), dan fungsi lainnya yang dapat dipakai di int main(). Program menambahkan tiga key dengan value 10, 20, dan 30 melalui ht.insert(). Lalu, dicari key 1 dan 4 dengan ht.get(). Selanjutnya, key 4 dihapus dengan ht.remove(). Pada akhirnya, program menampilkan key dan valuenya melalui ht.traverse() dengan outputnya adalah "1: 10, 2: 20, 3: 30".</p>
 
 ### 2. Latihan Hash Table dengan Node
@@ -286,7 +286,7 @@ int main() {
     return 0;
 }
 ```
-![alt text](<Screenshot 2024-04-16 190906.png>)
+![alt text](<Screenshot 2024-04-16 190906.png>)</br>
 Kode di atas digunakan untuk menjalankan hash table dengan node. Pada class HashNode, terdapat class public di mana class public ini memiliki string name dan phone_number. Lalu, di dalam class HashMap, terdapat class private dan public. Dalam class privatenya, dideklarasikan vector<HashNode*> table[TABLE_SIZE]. Dalam class publicnya, dideklarasikan int hashFunc(string key) beserta fungsi lainnya yang dapat dipakai di int main(). Program menambahkan tiga data, yaitu name Mistah dan phone_number 1234, Pastah dan 5678, Ghana dan 91011 dengan employee_map.insert(). Lalu, program mencari data nomor hp milik Mistah dan Pastah melalui employee_map.searchByName(). Selanjutnya, program menghapus data milik Mistah melalui employee_map.remove(). Setelah dihapus, ditampilkan nomor hp Mistah yang telah dihapus melalui employee_map.searchByName(). Pada akhirnya, program menampilkan Hash Table dengan employee_map.print().</p>
 
 ## Unguided
@@ -499,7 +499,7 @@ int main() {
 ```
 #### Output Unguided 1:
 ![alt text](<Screenshot 2024-04-16 194654.png>)
-![alt text](<Screenshot 2024-04-16 194729.png>)
+![alt text](<Screenshot 2024-04-16 194729.png>)</br>
 Program tersebut merupakan program sederhana dari hash table untuk menyimpan data mahasiswa. Berikut adalah penjelasan fungsi-fungsi utama dalam program:</br>
 1. Fungsi Hash (hash_func):
 - Digunakan untuk menghasilkan indeks (index) dari sebuah kunci (key) yang diberikan.
