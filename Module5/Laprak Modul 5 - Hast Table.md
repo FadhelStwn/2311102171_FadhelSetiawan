@@ -35,7 +35,7 @@ tabel.
 ### D. Collision Resolution
 Keterbatasan tabel hash adalah jika dua angka dimasukkan ke dalam fungsi
 hash menghasilkan nilai yang sama. Hal ini disebut dengan collision. Ada dua
-teknik untuk menyelesaikan masalah ini diantaranya :
+teknik untuk menyelesaikan masalah ini diantaranya :</br>
 ![alt text](<Screenshot 2024-04-16 202053.png>)
 
 ### 1. Open Hashing (Chaining)
