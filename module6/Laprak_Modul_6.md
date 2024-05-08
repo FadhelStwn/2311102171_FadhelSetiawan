@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 6 - LINKED LIST CIRCULAR DAN NON CIRCULAR </h1>
+# <h1 align="center">Laporan Praktikum Modul 6 - STACK </h1>
 <p align="center">Fadhel Setiawan - 2311102171</p>
 
 # Tujuan Pratikum
