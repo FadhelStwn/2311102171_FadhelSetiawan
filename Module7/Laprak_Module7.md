@@ -364,6 +364,9 @@ Program ini mengimplementasikan antrian (queue) dengan struktur data linked list
 - viewQueue: Menampilkan seluruh data mahasiswa dalam antrian dengan mengiterasi melalui semua node dan mencetak informasi nama dan NIM.</br>
 Dalam fungsi main, program menunjukkan operasi antrian dengan menambahkan beberapa mahasiswa ke antrian, menghapus satu mahasiswa dari antrian, dan kemudian mengosongkan seluruh antrian, sambil mencetak kondisi antrian setelah setiap operasi untuk menunjukkan bagaimana setiap fungsi bekerja. Program ini berguna untuk memahami konsep dasar antrian dan operasi yang terkait, serta bagaimana mengelola data dinamis menggunakan linked list dalam konteks pemrograman struktural.
 
+# KESIMPULAN
+Queue atau antrian adalah struktur data yang menerapkan prinsip "Masuk Pertama Keluar Pertama" (FIFO). Artinya, elemen yang pertama kali masuk akan menjadi elemen yang pertama kali dikeluarkan. Queue banyak digunakan dalam berbagai aplikasi, seperti antrian loket tol, antrian mahasiswa mendaftar, dan sistem komputer berbagi waktu. Queue juga memiliki head dan tail, head menunjuk pada elemen terdepan (depan) dalam antrian, sedangkan tail menunjuk pada elemen paling belakang (belakang) dalam antrian. 
+
 # REFERENSI
 [1] Carroll, Steven, and Alexander Goponenko. "A C++ implementation of a threadsafe priority queue based on multi-dimensional linked lists and MRLock." (2019).
 [2] Zheng Li dkk, C++ Programming. Republic State of China: De Gruyter, 2019.
