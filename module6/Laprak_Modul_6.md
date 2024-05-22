@@ -362,6 +362,17 @@ int main() {
 # Penjelasan 
 Program tersebut merupakan program yang meminta pengguna memasukkan sebuah kalimat dan kemudian membalikkan kalimat tersebut. Ini dilakukan dengan menggunakan struktur data stack untuk membalikkan urutan karakter dalam kalimat. Program akan terus berjalan dan membalikkan setiap kalimat yang dimasukkan oleh pengguna. 
 
+# KESIMPULAN
+Stack adalah struktur data yang menggunakan prinsip LIFO (Last In First Out). Elemen yang terakhir dimasukkan (push) menjadi yang pertama dikeluarkan (pop). Stack memiliki beberapa operasi penting:
+
+push(elemen): Menambahkan elemen baru ke atas stack.
+pop(): Menghapus dan mengembalikan elemen di atas stack.
+top(): Mengembalikan referensi ke elemen di atas stack tanpa menghapusnya.
+empty(): Mengembalikan true jika stack kosong, false sebaliknya.
+size(): Mengembalikan jumlah elemen di stack.
+peek(): Melihat nilai elemen pada posisi tertentu.
+search(): Mencari elemen tertentu.
+
 # Referensi
 [1] Stroustrup, B., A Tour of C++ Third Edition. United States: Pearson Education, Inc., 2023.<br/>
 [2]Y. Wu,S.Wang,C.-P.Bezemerand K.Inoue,"How do developers utilize source code from stack overflow?", Empir. Softw. Eng.,vol.24,no.2,pp.637-673,2019.</br>
