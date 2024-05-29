@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 8 - Algoritma Searching</h1>
+# <h1 align="center">Laporan Praktikum Modul 9 - GRAPH DAN TREE</h1>
 <p align="center">Fadhel Setiawan - 2311102171</p>
 
 ## Dasar Teori
